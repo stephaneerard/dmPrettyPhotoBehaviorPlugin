@@ -1,0 +1,13 @@
+dmBehaviors:
+  prettyPhoto:
+    section: Media Gallery
+    name: Pretty Photo
+    icon: /dmPrettyPhotoBehaviorPlugin/images/icon.png
+    form: dmPrettyPhotoBehaviorForm
+    view: dmPrettyPhotoBehaviorView
+  test:
+    section: Others
+    name: something
+    icon: /dmPrettyPhotoBehaviorPlugin/images/icon.png
+    form: dmPrettyPhotoBehaviorForm
+    view: dmPrettyPhotoBehaviorView
