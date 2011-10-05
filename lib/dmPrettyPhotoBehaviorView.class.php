@@ -68,4 +68,3 @@ class dmPrettyPhotoBehaviorView extends dmBehaviorView {
     //<div class="pp_social"></div>
 }
 
-?>
